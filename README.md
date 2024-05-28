@@ -5,7 +5,7 @@ Hi there! I'm Mario.
 ## About Me
 
 - 🌱 I’m currently learning programming.
-- ⚽ I enjoy playing football in my free 
+- ⚽ I enjoy playing football in my free time. 
 <!--
 **marioramirez90/marioramirez90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
