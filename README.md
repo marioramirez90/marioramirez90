@@ -1,7 +1,7 @@
-<h1 align="center">
+
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?&size=35&center=true&vCenter=true&lines=Hi,+There!+👋;Mario+here...;Nice+to+meet+you+😄!">
-  </a>
+
 
 
 # 💫 About Me:
