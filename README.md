@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines= HI!+nice+to+meet+you!+I'm+Mario!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Mario's GitHub Profile">
+  <img src="https://readme-typing-svg.demolab.com/?lines=hHI!+nice+to+meet+you!+I'm+Mario!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Mario's GitHub Profile">
 </p>
 
 # 💫 About Me:
