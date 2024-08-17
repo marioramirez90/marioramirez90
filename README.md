@@ -4,9 +4,6 @@
 
 # 💫 About Me:
 👋 Hi, I'm Mario!<br><br>I'm currently learning to code in the Coding Bootcamp Europe. Programming is something I truly enjoy, and I'm passionate about building my skills to land my first job as a web developer.<br><br>In addition to coding, I love playing football and diving.<br><br>Let's connect and create something awesome together! 🚀<br><br>
-<p align="center">
-  <h3 align="center">⌨️ Readme Typing SVG</h3>
-</p>
 
 
 
